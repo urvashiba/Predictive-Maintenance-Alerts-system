@@ -4,12 +4,12 @@ This project focuses on developing a Predictive Maintenance Alert system using N
 ## Project Overview
 The Predictive Maintenance Alerts system leverages Natural Language Processing (NLP) techniques to analyze vehicle maintenance logs. It aims to identify potential issues early on, aiding in preventative maintenance and reducing the likelihood of unexpected vehicle breakdowns.
 ## Features
-# Data Import: Ability to process maintenance logs from Excel or CSV files.
-# Text Preprocessing: Implements text cleaning and preprocessing to facilitate analysis.
-# Issue Prediction: Employs rule-based logic to highlight potential maintenance issues.
-# Extensibility: Designed for easy extension with machine learning models for enhanced prediction capabilities.
+ Data Import: Ability to process maintenance logs from Excel or CSV files.
+ Text Preprocessing: Implements text cleaning and preprocessing to facilitate analysis.
+ Issue Prediction: Employs rule-based logic to highlight potential maintenance issues.
+ Extensibility: Designed for easy extension with machine learning models for enhanced prediction capabilities.
 ## Getting Started
-# Prerequisites
+## Prerequisites
 Python 3.8 or newer. Download and installation instructions are available at python.org.
 ## Installation
 Clone the repository to your local machine:
