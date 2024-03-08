@@ -8,7 +8,7 @@ The Predictive Maintenance Alerts system leverages Natural Language Processing (
  Text Preprocessing: Implements text cleaning and preprocessing to facilitate analysis.
  Issue Prediction: Employs rule-based logic to highlight potential maintenance issues.
  Extensibility: Designed for easy extension with machine learning models for enhanced prediction capabilities.
-## Getting Started
+
 ## Prerequisites
 Python 3.8 or newer. Download and installation instructions are available at python.org.
 ## Installation
@@ -16,7 +16,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/urvashiba/Predictive-Maintenance-Alerts-system/edit/main/README.md
+git clone [https://github.com/urvashiba/Predictive-Maintenance-Alerts-system/edit/main/README.md](https://github.com/urvashiba/Predictive-Maintenance-Alerts-system.git)
 Navigate to the project directory and install the required dependencies:
 
 bash
