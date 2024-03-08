@@ -16,7 +16,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone [https://github.com/urvashiba/Predictive-Maintenance-Alerts-system/edit/main/README.md](https://github.com/urvashiba/Predictive-Maintenance-Alerts-system.git)
+git clone https://github.com/urvashiba/Predictive-Maintenance-Alerts-system.git
 Navigate to the project directory and install the required dependencies:
 
 bash
